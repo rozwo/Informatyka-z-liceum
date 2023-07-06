@@ -1,0 +1,18 @@
+zad 5.1	filtrowaniem
+06.05.2015	13172
+
+zad 5.2
+w arkuszu	
+	
+zad 5.3		
+kwiecień	0	 -   zł 
+maj	14	 164,36 zł 
+czerwiec	90	 1 056,60 zł 
+lipiec	218	 2 559,32 zł 
+sierpień	311	 3 651,14 zł 
+wrzesień	113	 1 326,62 zł 
+	
+zad 5.4	
+a)	88
+b)	73
+c)	22

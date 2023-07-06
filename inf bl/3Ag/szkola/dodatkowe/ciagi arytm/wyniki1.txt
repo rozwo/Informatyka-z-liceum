@@ -1,0 +1,2 @@
+Liczba ciagow arytm: 44
+Maksymalna roznica: 246849

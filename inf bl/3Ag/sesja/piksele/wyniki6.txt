@@ -1,0 +1,6 @@
+Zadanie 1:
+najjasniejszy 221
+najciemniejszy 7
+Zadanie 2: 149
+Zadanie 3: 753
+Zadanie 4: 5

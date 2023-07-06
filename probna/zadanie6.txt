@@ -1,0 +1,48 @@
+6.1
+Nazwisko	Imie	rok	ile
+Grabowska	Waclawa	58	17
+
+6.2
+NFZ	koszty
+Dolnoslaski	14414
+Slaski	8540
+Opolski	8490
+Lubuski	7552
+Pomorski	7351
+Wielkopolski	7080
+Swietokrzyski	5532
+Mazowiecki	5345
+Kujawsko-Pomorski	5317
+Zachodniopomorski	5271
+Lubelski	5097
+Lodzki	4829
+Podlaski	3700
+Podkarpacki	3406
+MaĹ‚opolski	2399
+Warminsko-Mazurski	358
+
+6.3
+a)
+Nazwa_badania	ile_razy
+RTG przedramienia	352
+b)
+Nazwa_badania	ilu_pacjentom
+RTG przedramienia	337
+
+6.4
+Plec	ile
+k	942
+m	1419
+
+6.5
+dziesieciolecie	ilu_pacjentow
+1	0
+2	0
+3	0
+4	2
+5	12
+6	88
+7	395
+8	652
+9	821
+10	391

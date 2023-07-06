@@ -1,0 +1,22 @@
+6.1
+T4
+905
+
+6.2
+22
+
+6.3 (filtrowaniem)
+data	2016-02-01	2018-08-01
+towar maks	T2	T5
+maks	48	125
+towar min	T4	T1
+min	24	3
+
+6.4
+w arkuszu
+
+6.5
+a) Stan kasy 18.12.2018	545844
+(filtrowaniem) Maksymalny stan kasy 08.10.2018	550079
+
+b)	6399

@@ -1,0 +1,21 @@
+5.1 w arkuszu kalkulacyjnym carambas
+
+5.2
+NIE
+rok	w czw i niedz	w pozostale dni
+2009	341	341
+2010	430	412
+2011	482	453
+2012	431	502
+2013	385	361
+
+5.3
+poczatek	08.06.2012
+koniec	01.07.2012
+dlugosc	24
+
+5.4
+-> 13.06.2013 (filtrowaniem)
+-> 68
+-> 28.08.2010 i 132
+

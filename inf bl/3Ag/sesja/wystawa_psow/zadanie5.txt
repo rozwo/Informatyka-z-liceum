@@ -1,0 +1,29 @@
+5a
+plec	ile
+samica	508
+samiec	492
+
+5b
+nazwisko	imie	PoliczOfid_psa
+Antczak	Edyta	9
+Bielawska	Dagmara	9
+Bugajno	Kamila	9
+Gabowski	Pawel	9
+Jaworski	Eugeniusz	9
+Kaliszewski	Kacper	10
+Kowal	Marcin	9
+Kowalski	Ryszard	9
+Kwiatkowski	Marcin	9
+Szargawinska	Danuta	9
+Szczupak	Anna	9
+Tobera	Krystyna	15
+Wroclawski	Rafal	11
+Wysocka	Maria	12
+
+5c
+imie	nazwisko	ile
+Krystyna	Tobera	41
+
+5d
+ile_osob
+103

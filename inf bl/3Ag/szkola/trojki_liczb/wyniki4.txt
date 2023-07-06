@@ -1,0 +1,5 @@
+Zadanie 1: 139
+Zadanie 2: 1404
+Zadanie 3:
+- suma cyfr 35: 4
+- maks suma: 88, wystapila 2 razy.

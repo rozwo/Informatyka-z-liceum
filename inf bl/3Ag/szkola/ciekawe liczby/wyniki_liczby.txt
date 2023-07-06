@@ -1,0 +1,13 @@
+Zadanie 1: 114
+Zadanie 2: 181
+Zadanie 3: 
+O mocy 1: 381
+O mocy 2: 344
+O mocy 3: 171
+O mocy 4: 76
+O mocy 5: 22
+O mocy 6: 4
+O mocy 7: 0
+O mocy 8: 2
+Minimalna o mocy 1: 11
+Maksymalna o mocy 1: 999342708

@@ -1,0 +1,1 @@
+Uwaga - zad. 6.2 pracowac tylko na pierwszych 700 wierszach danych!

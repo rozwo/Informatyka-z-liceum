@@ -1,0 +1,35 @@
+4.1
+Druzyna	ile
+Bukowina	26
+Grot	12
+Jaworzyna	49
+Plomien	16
+Watra	14
+Wierchy	42
+Zawisza	11
+Zywioly	17
+
+4.2
+najwiecej: tropiciel
+najmniej: ratownik
+
+4.3
+Id_harcerza	Imie	Nazwisko	Nazwa_sprawnosci
+H112	Mateusz	Buczek	zeglarz
+H112	Mateusz	Buczek	goral
+H112	Mateusz	Buczek	tropiciel
+H112	Mateusz	Buczek	strzelec
+H112	Mateusz	Buczek	spadochroniarz
+H035	Marian	Majchrowicz	zeglarz
+H035	Marian	Majchrowicz	goral
+H035	Marian	Majchrowicz	tropiciel
+H035	Marian	Majchrowicz	strzelec
+H035	Marian	Majchrowicz	ratownik
+
+4.4
+Druzyna
+Zywioly
+
+4.5
+Imie	Nazwisko	Nazwa_sprawnosci	ile
+Jozef	Piotrkowski	zeglarz	15

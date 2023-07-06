@@ -1,0 +1,79 @@
+102.1
+ile
+231
+
+102.2
+Uzytkownicy.Imie	Uzytkownicy.Nazwisko	Uzytkownicy.Kraj	Uzytkownicy_1.Imie	Uzytkownicy_1.Nazwisko	Uzytkownicy_1.Kraj
+Joshua	King	Stany Zjednoczone	Joshua	Nelson	Stany Zjednoczone
+Miguel	Barbosa	Portugalia	Miguel	Rocha	Brazylia
+
+102.3
+Kraj	ile
+Stany Zjednoczone	61
+Kanada	41
+Polska	33
+Wielka Brytania	32
+Niemcy	29
+Brazylia	27
+Hiszpania	26
+Francja	24
+Rosja	24
+Holandia	22
+
+102.4
+Wysokosc	Szerokosc	Imie	Nazwisko
+1926	1896	Antonio	Reyes
+
+102.5
+Imie	Nazwisko	Kraj
+Fabian	Aigner	Austria
+Miguel	Barbosa	Portugalia
+Matthias	Becker	Niemcy
+Seamus	Breathnach	Irlandia
+Avi	Cohen	Izrael
+Leonardo	De Luca	Wlochy
+Bram	De Vries	Holandia
+Mehmet	Demir	Turcja
+Frank	Dijkstra	Holandia
+Keiji	Fukuda	Japonia
+Markel	Goikoetxe	Hiszpania
+Fiodor	Golukin	Rosja
+Lovro	Gradic	Chorwacja
+Alfie	Griffiths	Wielka Brytania
+Jayden	Harper	Kanada
+Kenzaburo	Ishikawa	Japonia
+Anton	Ivanov	Rosja
+Andreas	Jakobsson	Szwecja
+Davit	Khachatryan	Armenia
+Joshua	King	Stany Zjednoczone
+Artjoms	Klavins	Lotwa
+Said	Koudri	Algieria
+Serhij	Kovalenko	Ukraina
+Filip	Kralj	Slowenia
+Hugo	Lambert	Belgia
+Janusz	Lewandowski	Polska
+Logan	MacDonald	Wielka Brytania
+Frederik	Madsen	Dania
+Maciej	Malinowski	Polska
+Nathan	Mercier	Francja
+Cristian	Munteanu	Rumunia
+Joshua	Nelson	Stany Zjednoczone
+Jiri	Novotny	Czechy
+Theo	Peeters	Belgia
+Ioannis	Petridis	Grecja
+Milan	Petrovic	Serbia
+Lautero	Quiroga	Argentyna
+Sebastian	Quispe	Peru
+Samuel	Ramirez	Stany Zjednoczone
+Antonio	Reyes	Hiszpania
+Bernardo	Ribeiro	Brazylia
+Oscar	Roberts	Wielka Brytania
+Miguel	Rocha	Brazylia
+Luka	Schulte	Niemcy
+Allan	Smith	Wielka Brytania
+Sandor	Takacs	Wegry
+Hikari	Takeuchi	Japonia
+Nik	Vidmar	Slowenia
+Luka	Wagner	Niemcy
+Hakan	Yilmaz	Turcja
+Aiden	Young	Stany Zjednoczone

@@ -1,0 +1,40 @@
+5.1
+Tytul	Cena
+Programowanie Microsoft SQL Server 2008 Tom 1 i 2. Pakiet	132,99
+Zaawansowany Python. Jasne, zwiezle i efektywne programowanie	132,99
+Programowanie Microsoft SQL Server 2012.	132,99
+Zapytania w jezyku T-SQL. w Microsoft SQL Server 2014 i SQL Server 2012	132,99
+Trening mentalny sportowca kurs	66,99
+Ekspresowy kurs dla poczatkujacych. Angielski.	47,99
+Ekspresowy kurs dla poczatkujacych. Hiszpanski.	47,99
+Ekspresowy kurs dla srednio zaawansowanych. Hiszpanski.	47,99
+Ekspresowy kurs dla poczatkujacych. Wloski.	47,99
+Ekspresowy kurs dla srednio zaawansowanych. Angielski.	47,99
+Ekspresowy kurs dla poczatkujacych. Francuski.	47,99
+Ekspresowy kurs dla poczatkujacych. Niemiecki.	47,99
+Medytacja Kolorami.	45,99
+
+5.2
+Autor	Tytul
+Drea Zigarmi, Ken Blanchard, Patricia Zigarmi	Jednominutowy menedzer i przywodztwo.
+Brian Tracy	Zarzadzanie czasem.
+Rafal Janus	Excel w praktyce, 8/14
+
+5.3
+Dziedzina	srednia_cena
+ekonomia	8,98 zł
+informatyka	31,99 zł
+literatura faktu	22,81 zł
+literatura piekna	15,97 zł
+nauki humanistyczne	12,77 zł
+nauki matematyczno-przyrodnicze	11,17 zł
+nauki spoleczne	16,19 zł
+
+5.4
+Dziedzina	ile
+literatura piekna	587
+
+5.5
+Nick_klienta	wsumie
+Lucky	908,47 zł
+5dzientygodnia	13,97 zł

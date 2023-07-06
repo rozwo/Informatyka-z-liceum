@@ -1,0 +1,3 @@
+W pliku liczb pierwszych jest 501
+Najwieksza z nich to 99767
+A najmniejsza z nich to 311
